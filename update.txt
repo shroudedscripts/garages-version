@@ -1,1 +1,2 @@
-Fixed a bug with the garages not saving stances on vehicle edits.
+Added in a new custom garagecreator for ease of creating new garages.
+Added a default garage to sandy shores and paleto bay.
