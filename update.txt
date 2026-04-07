@@ -1,2 +1,1 @@
-Added in a new custom garagecreator for ease of creating new garages.
-Added a default garage to sandy shores and paleto bay.
+Added in the ability to create job only garages.
