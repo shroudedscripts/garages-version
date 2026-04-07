@@ -1,1 +1,5 @@
 Added in the ability to create job only garages.
+Updated the way PolyZone creation is displayed.
+Updated the handling for creation of zones.
+Updated the handling for creation of spawn points.
+Updated the keybinds and functions for creation.
