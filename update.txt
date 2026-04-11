@@ -1,2 +1,4 @@
-Fixed a bug with the garage ped placement when creating garages.
-Updated the functions of the garage creator for clients to see easier.
+Updated the placement for the ped to purchase garage installations.
+Added a link to get a free download for the MLO I use for my ped location.
+Added in the ability to move vehicles that are not correctly placed in garages.
+Added the correct function callbacks throughout moving slots and placements.
